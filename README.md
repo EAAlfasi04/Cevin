@@ -14,11 +14,10 @@
 - 💻 I'm interested in web development
 - 🤝 I'm open to collaborating on projects
 - 📚 I'm always learning something new
-- 📫 How to reach me: emailkamu@example.com
-
+- 📫 How to reach me: cevinstrongs@gmail.com
 ### Connect with me:
 <p>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/Vin0">
     GitHub
   </a>
 </p>
