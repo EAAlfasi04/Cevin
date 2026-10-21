@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Nama Kamu</h1>
+<h1 align="center">Hi 👋, I'm Cevin</h1>
 
 <h3 align="center">
-  Mahasiswa | Web Developer | Tech Enthusiast
+  Mahasiswa Telkom University of Surabaya | Web Developer | Tech Enthusiast
 </h3>
 
 <p align="center">
